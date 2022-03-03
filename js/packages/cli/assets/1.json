@@ -50,5 +50,6 @@
         "share": 100
       }
     ]
-  }
+  },
+  "collection": {"name": "numbers", "family": "numbers"}
 }

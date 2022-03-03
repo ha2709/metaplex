@@ -31,7 +31,7 @@ $ yarn start
 Change to `metaplex/js/packages/cli` folder. In file `config.json` line 8, change `solTreasuryAccount` to your account address. 
 
 
-Navigate to `http://localhost:3000/` to explore the deployed application.
+Navigate to  `http://localhost:3000/` to explore the deployed application.
 
 ## Rust Programs
 
